@@ -4,6 +4,8 @@ This is a project from my bootcamp at Thinkful. it is what i made to get used to
 
 It allows users to add, update and delete feedback. It uses a mock REST api with json-server.
 
+Live Code: https://dazzling-swanson-3a91b4.netlify.app/
+
 This project goes over all of the fundamentals of React...
 
 - Components
